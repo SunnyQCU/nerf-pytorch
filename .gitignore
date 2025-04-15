@@ -1,9 +1,9 @@
 **/.ipynb_checkpoints
 **/__pycache__
 *.png
-*.mp4
+#*.mp4
 *.npy
 *.npz
 *.dae
 data/*
-logs/*
+#logs/*
